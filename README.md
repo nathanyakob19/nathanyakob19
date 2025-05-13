@@ -1,7 +1,7 @@
 👋 Hi, Nathan yakob
-🎓 BSc IT Student | 💻 Aspiring Web Developer | 🚀 Passionate Programmer/>
+🎓 BSc IT Student | 💻 Aspiring Web Developer | 🚀 Passionate Programmer
 
-Welcome to my GitHub profile! I'm currently pursuing my Bachelor's in Information Technology, where I'm building a strong foundation in programming, software development, and web technologies./>
+Welcome to my GitHub profile! I'm currently pursuing my Bachelor's in Information Technology, where I'm building a strong foundation in programming, software development, and web technologies.
 
 
 ## 🌐 Socials:
